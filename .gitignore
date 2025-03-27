@@ -11,12 +11,12 @@ credentials.json
 # Ignorer les fichiers CSV et Joblib s'ils ne sont pas suivis par Git LFS
 *.csv
 *.joblib
-Dates_data/
-files_csv/
+# Dates_data/
+# files_csv/
 models/
 predictions_files/
-stockage_data/
-temporal_data/
+# stockage_data/
+# temporal_data/
 clean.csv
 donnees.csv 
 output.csv
